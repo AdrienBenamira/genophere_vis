@@ -1,6 +1,6 @@
 ## Welcome to Genosphere-biotech
 
-![Logo](./logo.jpg)
+![](./lgo.jpg)
 
 
 Following an accident at our web host, we have moved our website
