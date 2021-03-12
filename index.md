@@ -1,3 +1,9 @@
+```sh
+12/03/2021
+www.genosphere-biotech.com
+wwww.genosphere.co.uk
+```
+
 ## Welcome to Genosphere Biotechnologies' temporary web page
 
 ### We are sorry, unfortunately, our web site server is down :-/
@@ -26,8 +32,9 @@ Thank you very much for your patience. :-)
 
 ```sh
 12/03/2021
+www.genosphere-biotech.fr
 ```
 
 ## Bienvenue sur la page internet temporaire de Genosphere Biotechnologies
 
-### We are sorry, unfortunately, our web site server is down :-/
+### Nous sommes désolés, notre site internet est temporairement inaccessible :-/
