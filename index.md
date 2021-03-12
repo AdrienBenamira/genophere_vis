@@ -23,6 +23,11 @@ and you may reach us by email as usual:
 Thank you very much for your patience. :-)
 
 
-```sh
 
+```sh
+12/03/2021
 ```
+
+## Bienvenue sur la page internet temporaire de Genosphere Biotechnologies
+
+### We are sorry, unfortunately, our web site server is down :-/
