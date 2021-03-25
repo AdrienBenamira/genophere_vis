@@ -4,7 +4,7 @@ www.genosphere-biotech.com
 wwww.genosphere.co.uk
 ```
 
-## Welcome to Genosphere Biotechnologies' temporary web page
+## Welcome to Genosphere Biotechnologies' temporary web page (#English)
 
 ### We are sorry, unfortunately, our web site server is down :-/
 
@@ -38,7 +38,7 @@ Thank you very much for your patience. :-)
 www.genosphere-biotech.fr
 ```
 
-## Bienvenue sur la page internet temporaire de Genosphere Biotechnologies
+## Bienvenue sur la page internet temporaire de Genosphere Biotechnologies (#French)
 
 ### Nous sommes désolés, notre site internet est temporairement inaccessible :-/
 
