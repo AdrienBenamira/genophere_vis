@@ -38,7 +38,7 @@ Thank you very much for your patience. :-)
 www.genosphere-biotech.fr
 ```
 
-## Bienvenue sur la page internet temporaire de Genosphere Biotechnologies[](#English)
+## Bienvenue sur la page internet temporaire de Genosphere Biotechnologies[](#French)
 
 ### Nous sommes désolés, notre site internet est temporairement inaccessible :-/
 
