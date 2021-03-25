@@ -3,5 +3,4 @@ logo: ./logo.jpg
 theme: jekyll-theme-minimal
 github:
   is_project_page: False 
-site:
-  show_downloads: True
+show_downloads: True
